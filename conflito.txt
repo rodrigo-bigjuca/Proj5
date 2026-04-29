@@ -2,3 +2,4 @@
 Criando linha 02 arquivo conflito.txt
 Criando Linha 03 local
 Criando linha 08 remota
+Criando linha 09 local
